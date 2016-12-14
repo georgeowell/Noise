@@ -149,7 +149,7 @@ public class CanonicalAddressDatabase {
     try {
       long canonicalAddressId;
 
-      if (isNumberAddress(address) && TextSecurePreferences.isPushRegistered(context)) {
+      if (isNumberAddress(address) && TextSecurePreferences.isRegistered(context)) {
         String localNumber = TextSecurePreferences.getLocalNumber(context);
 
         if (!ShortCodeUtil.isShortCode(localNumber, address)) {
