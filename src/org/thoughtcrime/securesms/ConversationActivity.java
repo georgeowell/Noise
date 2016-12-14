@@ -920,7 +920,7 @@ public class ConversationActivity extends PassphraseRequiredActionBarActivity
 
   protected void updateInviteReminder(boolean seenInvite) {
     Log.w(TAG, "updateInviteReminder(" + seenInvite+")");
-    if (TextSecurePreferences.isPushRegistered(this) &&
+    if (TextSecurePreferences.isRegistered(this)     &&
         !isSecureText                                &&
         !seenInvite                                  &&
         recipients.isSingleRecipient()               &&
@@ -1297,7 +1297,7 @@ public class ConversationActivity extends PassphraseRequiredActionBarActivity
   }
 
   private boolean isSelfConversation() {
-    if (!TextSecurePreferences.isPushRegistered(this))       return false;
+    if (!TextSecurePreferences.isRegistered(this))           return false;
     if (!recipients.isSingleRecipient())                     return false;
     if (recipients.getPrimaryRecipient().isGroupRecipient()) return false;
 
