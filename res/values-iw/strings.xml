@@ -429,10 +429,6 @@
   <string name="RegistrationActivity_the_number_you_specified_s_is_invalid">המספר שציינת (%s)
 אינו תקין.</string>
   <string name="RegistrationActivity_unsupported">לא נתמך</string>
-  <string name="RegistrationActivity_sorry_this_device_is_not_supported_for_data_messaging">סליחה,
-המכשיר הזה לא תומך בשליחת מסרים עם נתונים. למכשירים שמריצים אנדרואיד ישן יותר
-מגרסה 4.0 צריך להיות חשבון גוגל רשום. מכשירים עם אנדרואיד 4.0 או חדש יותר
-אינם דורשים חשבון גוגל, אבל כן צריכה להיות בהם אפליקציית חנות Play.</string>
   <string name="RegistrationActivity_we_will_now_verify_that_the_following_number_is_associated_with_your_device_s">
 נא לוודא שזה המספר שלך! אנחנו עומדים לאמת אותו באמצעות SMS.</string>
   <string name="RegistrationActivity_continue">המשך</string>

@@ -260,10 +260,6 @@
   <string name="RegistrationActivity_the_number_you_specified_s_is_invalid">Внесениот број
           (%s) е погрешен.</string>
   <string name="RegistrationActivity_unsupported">Неподдржано</string>
-  <string name="RegistrationActivity_sorry_this_device_is_not_supported_for_data_messaging">Овај,
-        уред не е поддржан за праќање пораки. Уреди што работат на Андроид  верзија постара
-од 4.0 мора да имаат регистриран Google Account. Уреди што работат на Андроид 4.0 и понов не мора
-да имаат Google account, но мора да ја имаат инсталирано Play Store апликацијата.</string>
   <string name="RegistrationActivity_we_will_now_verify_that_the_following_number_is_associated_with_your_device_s">
         Проверете уште еднаш дали е ова вашиот број. Наскоро ќе го веривикуваме со SMS порака.
     </string>

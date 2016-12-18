@@ -449,7 +449,6 @@
   <string name="RegistrationActivity_the_number_you_specified_s_is_invalid">Указанный вами 
 номер телефона (%s) неверен.</string>
   <string name="RegistrationActivity_unsupported">Устройство не поддерживается</string>
-  <string name="RegistrationActivity_sorry_this_device_is_not_supported_for_data_messaging">К сожалению, на вашем устройстве невозможен обмен сообщениями через интернет. На устройствах с Android версии ниже 4.0 должен быть зарегистрирован аккаунт Google. На устройствах с Android 4.0 или выше аккаунт Google необязателен, но должно иметься приложение «Play Маркет».</string>
   <string name="RegistrationActivity_we_will_now_verify_that_the_following_number_is_associated_with_your_device_s">
 Перепроверьте, что это ваш номер! На него будет отправлено SMS для подтверждения.</string>
   <string name="RegistrationActivity_continue">Продолжить</string>

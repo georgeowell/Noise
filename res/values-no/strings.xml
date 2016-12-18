@@ -413,7 +413,6 @@ telefonnummeret ditt</string>
   <string name="RegistrationActivity_the_number_you_specified_s_is_invalid">Nummeret du 
 oppga (%s) er ugylig.</string>
   <string name="RegistrationActivity_unsupported">Ikke støttet</string>
-  <string name="RegistrationActivity_sorry_this_device_is_not_supported_for_data_messaging">Beklager, denne enheten støtter ikke meldinger over mobil data. Enheter som kjører versjoner av Android lavere enn 4.0 krever en Google konto. Enheter som kjører versjoner av Android 4.0 eller nyere krever ikke en Google konto, men Play Store applikasjonen må være installert.</string>
   <string name="RegistrationActivity_we_will_now_verify_that_the_following_number_is_associated_with_your_device_s">
 Dobbelsjekk at dette er nummeret ditt! Vi er i ferd med å verifisere det med en SMS.
 </string>

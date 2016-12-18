@@ -414,11 +414,6 @@
         號碼 (%s) 是無效的
     </string>
   <string name="RegistrationActivity_unsupported">不支援</string>
-  <string name="RegistrationActivity_sorry_this_device_is_not_supported_for_data_messaging">抱歉，
-        你目前使用裝置不支援 TextSecure 即時訊息功能。.採用早於 Android 4.0 或更舊版
-        必須登入已註冊的 Google Account. 採用 Android 4.0 或更新版
-        的手機則無須 Google account，但須具備 Play Store APP。
-    </string>
   <string name="RegistrationActivity_we_will_now_verify_that_the_following_number_is_associated_with_your_device_s">
 請仔細檢查您的號碼！我們將透過簡訊進行驗證。</string>
   <string name="RegistrationActivity_continue">繼續</string>

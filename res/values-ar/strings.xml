@@ -467,7 +467,6 @@
   <string name="RegistrationActivity_invalid_number">الرقم غير صحيح</string>
   <string name="RegistrationActivity_the_number_you_specified_s_is_invalid">الرقم الذي حددته (%s) غير صحيح.</string>
   <string name="RegistrationActivity_unsupported">غير مدعوم</string>
-  <string name="RegistrationActivity_sorry_this_device_is_not_supported_for_data_messaging">عذرا، هذا المحمول لا يدعم المراسلات عبر بيانات شبكة الجوال. الهواتف العاملة بأنظمة أقدم من أندرويد 4.0 يجب أن يكون لديها حساب جوجل مسجل. الهواتف العاملة بنظام أندرويد 4.0 أو الأعلى لا تطلب حساب جوجل ولكن يجب أن يكون مثبت بها تطبيق سوق بلاي.</string>
   <string name="RegistrationActivity_we_will_now_verify_that_the_following_number_is_associated_with_your_device_s">
 رجاء التأكد من أنه رقمك! نحن على وشك التحقق بواسطة رسالة نصية.</string>
   <string name="RegistrationActivity_continue">استمر</string>

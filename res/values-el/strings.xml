@@ -425,8 +425,6 @@
   <string name="RegistrationActivity_the_number_you_specified_s_is_invalid">Ο αριθμός που καθορίσατε (%s)
 δεν είναι έγκυρος.</string>
   <string name="RegistrationActivity_unsupported">Δεν υποστηρίζεται</string>
-  <string name="RegistrationActivity_sorry_this_device_is_not_supported_for_data_messaging">Συγγνώμη,
-αυτή η συσκευή δεν υποστηρίζεται για μηνύματα δεδομένων. Οι συσκευές που τρέχουν εκδόσεις Android παλαιότερες από 4.0 πρέπει να έχουν λογαριασμό Google. Συσκευές που τρέχουν Android 4.0 ή νεότερο δε χρειάζονται λογαριασμό Google, αλλά θα πρέπει να έχουν εγκατεστημένο το Play Store.</string>
   <string name="RegistrationActivity_we_will_now_verify_that_the_following_number_is_associated_with_your_device_s">
 Έλεγξε ξανά ότι αυτός είναι ο αριθμός σου! Είμαστε έτοιμοι να τον επιβεβαιώσουμε με SMS.</string>
   <string name="RegistrationActivity_continue">Συνέχεια</string>

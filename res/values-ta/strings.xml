@@ -316,10 +316,6 @@
   <string name="RegistrationActivity_the_number_you_specified_s_is_invalid">நீங்கள் குறிப்பிட்ட 
 எண் (%s) செல்லாது.</string>
   <string name="RegistrationActivity_unsupported">ஆதரவற்ற</string>
-  <string name="RegistrationActivity_sorry_this_device_is_not_supported_for_data_messaging">மன்னிக்கவும், 
-இந்த சாதனத்தில்  இணையத்தின் மூலம் செய்தியனுப்பும் ஆதரவில்லை. அண்ட்ராய்டு 4.0-கிற்கு
-முன்னுள்ள பதிப்புகளில் இயங்கும் சாதனங்களில் பதிவுச்செய்யபட்ட Google கணக்கு அவசியம். 
-அண்ட்ராய்டு 4.0 அல்லது அதன்பின்னுள்ள பதிப்புகளுக்கு Google கணக்கு அவசியமில்லை, ஆனால் Play Store மென்பொருள் நிறுவியிருப்பது அவசியம்.</string>
   <string name="RegistrationActivity_we_will_now_verify_that_the_following_number_is_associated_with_your_device_s">
 இந்த உங்கள் எண்தானா என இருமுறை சரிபாருங்கள்! நாங்கள் ஒரு SMS மூலம் இதை சரிபார்க்கப்போகிறோம்.</string>
   <string name="RegistrationActivity_continue">தொடர்</string>

@@ -399,10 +399,6 @@ a la còpia de seguretat.</string>
   <string name="RegistrationActivity_invalid_number">Número invàlid</string>
   <string name="RegistrationActivity_the_number_you_specified_s_is_invalid">El número que has especificat (%s) és invàlid.</string>
   <string name="RegistrationActivity_unsupported">No suportat</string>
-  <string name="RegistrationActivity_sorry_this_device_is_not_supported_for_data_messaging">Disculpa,
-aquest dispositiu no suporta missatges de dades. Els dispositius que fan servir versions d\'Android més velles
-que 4.0 han de tenir un compte Google registrat. Els dispositius que fan servir Android 4.0 o superior no
-necessiten un compte Google, però han de tenir l\'app Play Store instal·lada.</string>
   <string name="RegistrationActivity_we_will_now_verify_that_the_following_number_is_associated_with_your_device_s">
 Comprova que aquest és el teu número! Anem a verificar-ho amb un SMS.</string>
   <string name="RegistrationActivity_continue">Continua</string>

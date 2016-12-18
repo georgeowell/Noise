@@ -392,11 +392,6 @@ telefonnummer
 indtastede (%s) er ugyldigt.
 </string>
   <string name="RegistrationActivity_unsupported">Ikke understøttet</string>
-  <string name="RegistrationActivity_sorry_this_device_is_not_supported_for_data_messaging">Beklager,
-denne enhed understøtter ikke meddelelser sendt over mobil data. Enheder som kører versioner af Android lavere
-end 4.0 kræver en Google-konto. Enheder, som kører versioner af Android 4.0 eller nyere, kræver
-ikke en Google-konto, men Play Store-appen skal være installeret.
-</string>
   <string name="RegistrationActivity_we_will_now_verify_that_the_following_number_is_associated_with_your_device_s">
 Dobbelttjek, at dette er dit nummer! Vi er ved at verificere det med en SMS.
 </string>

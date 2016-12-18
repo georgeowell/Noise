@@ -428,9 +428,6 @@ SMS-те от системния архив в Сигнал. Ако вече с�
   <string name="RegistrationActivity_the_number_you_specified_s_is_invalid">Избраният номер
 (%s) е невалиден.</string>
   <string name="RegistrationActivity_unsupported">Тази функция не се поддържа</string>
-  <string name="RegistrationActivity_sorry_this_device_is_not_supported_for_data_messaging">За съжаление,
-това устройство не поддържа съобщения през интернет. Устройства използващи Android по-ранна версия от 4.0 трябва да са регистрирани с Google. Устройства използващи Android 4.0 или по-нова версия не е нужно
-да са регистрирани с Google, но трябва да имат Play Store инсталиран.</string>
   <string name="RegistrationActivity_we_will_now_verify_that_the_following_number_is_associated_with_your_device_s">
 Проверете, че това е Вашия номер! Следва да го проверим чрез SMS.</string>
   <string name="RegistrationActivity_continue">Продължи</string>

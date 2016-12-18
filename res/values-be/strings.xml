@@ -187,7 +187,6 @@
   <string name="RegistrationActivity_invalid_number">Няправільны нумар</string>
   <string name="RegistrationActivity_the_number_you_specified_s_is_invalid">Вы ўказалі няправільны нумар (%s) </string>
   <string name="RegistrationActivity_unsupported">Не падтрымліваецца</string>
-  <string name="RegistrationActivity_sorry_this_device_is_not_supported_for_data_messaging">Нажаль гэты дэвайс не падтрымлівае дадзеныя паведамленні. Смартфон з версіяй Android ранейшай за 4.0 мусіць мець зарэгістраваны ўліковы запіс Google. Смартфон з версіяй Android пазней за 4.0 не патрабуе ўліковы запіс Google , але мусіць мець усталяваны Play Store.</string>
   <string name="RegistrationActivity_we_will_now_verify_that_the_following_number_is_associated_with_your_device_s">Праверці ці гэта сапраўды Ваш нумар. Ён будзе правярацца з дапамогай SMS.</string>
   <string name="RegistrationActivity_continue">Працягнуць</string>
   <string name="RegistrationActivity_edit">Рэдагаваць</string>

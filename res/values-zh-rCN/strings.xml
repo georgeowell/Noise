@@ -411,10 +411,6 @@
   <string name="RegistrationActivity_the_number_you_specified_s_is_invalid">您所指定的号码
 (%s) 无效。</string>
   <string name="RegistrationActivity_unsupported">不支持</string>
-  <string name="RegistrationActivity_sorry_this_device_is_not_supported_for_data_messaging">抱歉，
-当前设备不支持数据短信息。该设备运行的Android版本低于
-4.0，并且已经注册了Google帐户。如果设备已经运行于Android 4.0或更高版本
-则不需要Google账户，但是必须已经安装 Play 商店。</string>
   <string name="RegistrationActivity_we_will_now_verify_that_the_following_number_is_associated_with_your_device_s">
 请仔细复查您的号码，我们将通过短信进行验证。</string>
   <string name="RegistrationActivity_continue">继续</string>

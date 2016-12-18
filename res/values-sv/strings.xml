@@ -426,7 +426,6 @@ telefonnummer</string>
   <string name="RegistrationActivity_the_number_you_specified_s_is_invalid">Numret du
 angav (%s) är ogiltigt.</string>
   <string name="RegistrationActivity_unsupported">Stöds ej</string>
-  <string name="RegistrationActivity_sorry_this_device_is_not_supported_for_data_messaging">Tyvärr stödjer inte den här enheten datameddelanden. Enheter som kör versioner av Android äldre än 4.0 måste ha ett registrerat Google-konto. Enheter som kör Android 4.0 eller nyare behöver inte ett Google-konto, men måste ha appen Play Store installerad.</string>
   <string name="RegistrationActivity_we_will_now_verify_that_the_following_number_is_associated_with_your_device_s">
 Dubbelkolla att det här är ditt nummer! Vi ska nu verifiera det med ett SMS.</string>
   <string name="RegistrationActivity_continue">Fortsätt</string>

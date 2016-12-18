@@ -438,9 +438,6 @@ Stracisz wszystkie informacje obecnie zawarte w aplikacji Noise z wyjątkiem tyc
   <string name="RegistrationActivity_the_number_you_specified_s_is_invalid">Numer jaki podałeś (%s) jest niepoprawny.
     </string>
   <string name="RegistrationActivity_unsupported">Nieobsługiwany</string>
-  <string name="RegistrationActivity_sorry_this_device_is_not_supported_for_data_messaging">Przepraszamy, 
-to urządzenie nie obsubuje przesyłania wiadomości korzystających z transmisji danych. Urządzenia działające na systemie Android starszym niż 4.0 muszą mieć zarejestrowane konto Google. 
-Urządzenia działające na systemie Android 4.0 lub nowszym nie wymagają konta Google, ale muszą mieć zainstalowaną aplikację Sklep Play.</string>
   <string name="RegistrationActivity_we_will_now_verify_that_the_following_number_is_associated_with_your_device_s">
 Upewnij się, że to jest Twój numer! Zamierzamy zweryfikować go SMSem.
 </string>
