@@ -428,9 +428,6 @@ telefonnummer</string>
   <string name="RegistrationActivity_the_number_you_specified_s_is_invalid">Nummeret du
 skrev inn (%s) er ugyldig.</string>
   <string name="RegistrationActivity_unsupported">Støttes ikke</string>
-  <string name="RegistrationActivity_sorry_this_device_is_not_supported_for_data_messaging">Denne enheten støtter ikke datameldinger. Enheter som kjører eldre versjoner av Android
-enn 4.0 må knyttes til en Google-konto. Enheter som kjører Android 4.0 eller nyere
-krever ikke Google-konto, men må ha Play Butikk installert.</string>
   <string name="RegistrationActivity_we_will_now_verify_that_the_following_number_is_associated_with_your_device_s">
 Dobbeltsjekk at dette er ditt nummer. Vi er i ferd med å bekrefte det ved å sende deg SMS.</string>
   <string name="RegistrationActivity_continue">Fortsett</string>

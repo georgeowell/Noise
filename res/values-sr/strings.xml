@@ -445,10 +445,6 @@
   <string name="RegistrationActivity_the_number_you_specified_s_is_invalid">Број који сте
 навели (%s) није исправан.</string>
   <string name="RegistrationActivity_unsupported">Није подржано</string>
-  <string name="RegistrationActivity_sorry_this_device_is_not_supported_for_data_messaging">Нажалост,
-овај уређај не подржава поруке преко интернета. Уређаји на Андроидима старијим од издања 4.0
-морају имати регистрован Гуглов налог. Уређаји на Андроидима 4.0 или новијим не захтевају
-Гуглов налог, али морају имати инсталирану Плеј продавницу.</string>
   <string name="RegistrationActivity_we_will_now_verify_that_the_following_number_is_associated_with_your_device_s">
 Проверите да ли је ово ваш број! Проверићемо га помоћу СМС поруке.</string>
   <string name="RegistrationActivity_continue">Настави</string>

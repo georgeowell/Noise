@@ -437,11 +437,6 @@ telefonszámod!
 szám (%s) érvénytelen.
  </string>
   <string name="RegistrationActivity_unsupported">Nem támogatott</string>
-  <string name="RegistrationActivity_sorry_this_device_is_not_supported_for_data_messaging">Sajnáljuk, ez a
-készülék nem támogatja az adat alapú üzenetküldést. Az Android 4.0-nál régebbi verziót használó készülékek esetén
-rendelkezniük kell Google fiókkal. Az Android 4.0-t vagy frissebb verziót használó készülékek
-nem igénylik a Google fiók meglétét, de a Play Áruház alkalmazásnak telepítve kell lennie.
- </string>
   <string name="RegistrationActivity_we_will_now_verify_that_the_following_number_is_associated_with_your_device_s">
 Ellenőrizd újra, hogy ez a te számod! Hamarosan egy SMS-ben fogjuk ellenőrizni azt. </string>
   <string name="RegistrationActivity_continue">Folytatás</string>

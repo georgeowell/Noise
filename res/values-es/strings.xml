@@ -436,11 +436,6 @@ número de teléfono
 (%s) no es válido.
 </string>
   <string name="RegistrationActivity_unsupported">No admitido</string>
-  <string name="RegistrationActivity_sorry_this_device_is_not_supported_for_data_messaging">Lo sentimos,
-este dispositivo no es compatible con la mensajería de datos. Los dispositivos que ejecutan versiones de Android anteriores
-a la 4.0 deben tener una cuenta de Google registrada. Los dispositivos que ejecutan Android 4.0 o posterior no
-requieren una cuenta de Google, pero deben tener la aplicación Play Store instalada.
- </string>
   <string name="RegistrationActivity_we_will_now_verify_that_the_following_number_is_associated_with_your_device_s">
 ¡Compruebe dos veces que este es su número! Estamos a punto de verificarlo con un SMS.
     </string>

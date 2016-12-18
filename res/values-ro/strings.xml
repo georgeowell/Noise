@@ -442,10 +442,6 @@ numărul tău de telefon</string>
   <string name="RegistrationActivity_the_number_you_specified_s_is_invalid">Numărul de telefon
 furnizat (%s) este invalid.</string>
   <string name="RegistrationActivity_unsupported">Neacceptat</string>
-  <string name="RegistrationActivity_sorry_this_device_is_not_supported_for_data_messaging">Ne pare rău,
-acest dispozitiv nu suportă mesagerie de tip date. Dispozitivele care rulează o versiune mai veche 
-de Android 4.0 trebuie să aibe un cont Google înregistrat. Dispozitivele care rulează versiunea de Android 4.0 sau mai noi 
-nu au nevoie de un cont Google, dar au nevoie ca aplicația Magazinul Play să fie instalată.</string>
   <string name="RegistrationActivity_we_will_now_verify_that_the_following_number_is_associated_with_your_device_s">
 Verifică din nou dacă acesta este numărul tău! Suntem pe cale să-l verificăm printr-un SMS.</string>
   <string name="RegistrationActivity_continue">Continuă</string>

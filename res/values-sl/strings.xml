@@ -451,7 +451,6 @@ Uvoz iz šifrirane varnostne kopije bo popolnoma nadomestil obstoječe ključe, 
   <string name="RegistrationActivity_invalid_number">Napačna številka</string>
   <string name="RegistrationActivity_the_number_you_specified_s_is_invalid">Številka, ki ste jo navedli (%s) je neveljavna.</string>
   <string name="RegistrationActivity_unsupported">Nepodprto</string>
-  <string name="RegistrationActivity_sorry_this_device_is_not_supported_for_data_messaging">Vaša naprava žal ne podpira podatkovnih sporočil. Naprave z Androidom različice starejše od 4.0 morajo imeti registriran Googlov račun. Naprave z Androidom različice 4.0 ali več ne potrebujejo računa Google, vendar morajo imeti nameščeno aplikacijo Play Store.</string>
   <string name="RegistrationActivity_we_will_now_verify_that_the_following_number_is_associated_with_your_device_s">
 Preverite, če je to zares vaša telefonska številka! Potrdili jo bomo s sporočilom SMS.</string>
   <string name="RegistrationActivity_continue">Nadaljuj</string>

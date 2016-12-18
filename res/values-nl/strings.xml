@@ -423,7 +423,6 @@ telefoonnummer opgeven</string>
   <string name="RegistrationActivity_the_number_you_specified_s_is_invalid">Het nummer dat je hebt
 ingevoerd (%s) is ongeldig.</string>
   <string name="RegistrationActivity_unsupported">Niet ondersteund</string>
-  <string name="RegistrationActivity_sorry_this_device_is_not_supported_for_data_messaging">Sorry, dit apparaat ondersteunt geen gegevensberichten. Apparaten die een Android-versie ouder dan 4.0 draaien moeten aan een Google-account gekoppeld zijn. Apparaten die Android 4.0 of nieuwer draaien hoeven niet gekoppeld te zijn, maar moeten wel de Play Store-app geïnstalleerd hebben.</string>
   <string name="RegistrationActivity_we_will_now_verify_that_the_following_number_is_associated_with_your_device_s">
         Dubbelcheck dat dit je nummer is! We gaan dit verifiëren met een SMS.
     </string>

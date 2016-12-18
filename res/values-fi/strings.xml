@@ -429,11 +429,6 @@ puhelinnumero</string>
   <string name="RegistrationActivity_the_number_you_specified_s_is_invalid">Antamasi puhelinnumero
 (%s) on virheellinen.</string>
   <string name="RegistrationActivity_unsupported">Ei tuettu</string>
-  <string name="RegistrationActivity_sorry_this_device_is_not_supported_for_data_messaging">Valitettavasti,
-tämä laite ei tue viestien lähettämistä tietoverkon kautta. Laitteissa, joissa on vanhempi kuin
-Android 4.0, täytyy olla rekisteröity Google-tili. Laitteissa, joissa on Android 4.0 tai uudempi
-ei tarvitse
-olla Google-tiliä, mutta täytyy olla Play-kauppa asennettuna. </string>
   <string name="RegistrationActivity_we_will_now_verify_that_the_following_number_is_associated_with_your_device_s">
 Tarkista vielä, että tämä on varmasti numerosi! Aiomme seuraavaksi vahvistaa sen lähettämällä siihen tekstiviestin.</string>
   <string name="RegistrationActivity_continue">Jatka</string>

@@ -401,7 +401,6 @@
   <string name="RegistrationActivity_invalid_number">無効な番号</string>
   <string name="RegistrationActivity_the_number_you_specified_s_is_invalid">指定された番号(%s)はお使いできません。</string>
   <string name="RegistrationActivity_unsupported">使用不可能</string>
-  <string name="RegistrationActivity_sorry_this_device_is_not_supported_for_data_messaging">申し訳ありませんが、 データメッセージの送信はお使いのデバイスではできません。アンドロイドのバージョンが4.0より古い場合、グーグルアカウントに登録する必要があります。バージョンが4.0以降の場合はグーグルアカウントへの登録は不要ですが、Google Playのアプリをインストールする必要があります。</string>
   <string name="RegistrationActivity_we_will_now_verify_that_the_following_number_is_associated_with_your_device_s">この番号で正しいか確認してください。このあとSMSを使って番号の確認を行います。
     </string>
   <string name="RegistrationActivity_continue">続行</string>

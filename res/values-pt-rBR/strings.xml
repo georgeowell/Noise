@@ -435,11 +435,6 @@
         especificou (%s) é inválido.
     </string>
   <string name="RegistrationActivity_unsupported">Incompatível</string>
-  <string name="RegistrationActivity_sorry_this_device_is_not_supported_for_data_messaging">Desculpe,
-        este dispositivo não é suportado para mensagens de dados. Dispositivos rodando versões de Android anteriores
-        à 4.0 devem ter uma Conta Google registrada. Dispositivos rodando Android 4.0 ou superior não
-        precisam de uma Conta Google, mas devem ter o aplicativo Play Store instalado.
-    </string>
   <string name="RegistrationActivity_we_will_now_verify_that_the_following_number_is_associated_with_your_device_s">
        Verifique novamente que este é o seu número! Estamos prestes a verificá-lo com um SMS.
     </string>

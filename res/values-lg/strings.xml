@@ -386,7 +386,6 @@ a</string>
   <string name="RegistrationActivity_the_number_you_specified_s_is_invalid">Enamba 
 gy\'olonze (%s) sintuufu.</string>
   <string name="RegistrationActivity_unsupported">Tekiwagirwa</string>
-  <string name="RegistrationActivity_sorry_this_device_is_not_supported_for_data_messaging">sorry. device tekola ku signal.</string>
   <string name="RegistrationActivity_we_will_now_verify_that_the_following_number_is_associated_with_your_device_s">
 Dammu okebere e namba yo.  Tugenda kugikakasa no bubaka ku simu</string>
   <string name="RegistrationActivity_continue">genda maaso</string>

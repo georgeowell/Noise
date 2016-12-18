@@ -384,7 +384,6 @@
   <string name="RegistrationActivity_invalid_number">전화번호가 잘못됨</string>
   <string name="RegistrationActivity_the_number_you_specified_s_is_invalid">입력한 전화번호가 (%s) 잘못되었습니다.</string>
   <string name="RegistrationActivity_unsupported">지원하지 않는 기기</string>
-  <string name="RegistrationActivity_sorry_this_device_is_not_supported_for_data_messaging">죄송합니다. 해당 기기가 인터넷 메시지를 지원하지 않습니다. 안드로이드 4.0 이하 버전을 실행하는 기기들은 Google 계정이 필요합니다. 안드로이드 4.0이나 상위 버전을 실행하는 기기들은 Google 계정이 필요하지 않지만 Google Play 스토어 앱이 설치돼야 합니다.</string>
   <string name="RegistrationActivity_we_will_now_verify_that_the_following_number_is_associated_with_your_device_s">인증메시지를 SMS으로 보냅니다. 전화번호가 정확한지 확인하세요.</string>
   <string name="RegistrationActivity_continue">확인</string>
   <string name="RegistrationActivity_edit">수정</string>

@@ -375,11 +375,6 @@
         especifcado (%s) non é válido.
     </string>
   <string name="RegistrationActivity_unsupported">Non compatible</string>
-  <string name="RegistrationActivity_sorry_this_device_is_not_supported_for_data_messaging">Desculpa,
-        este dispositivo non admite mensaxaría de datos. Os dispositivos con versións de Android
-        anteriores á 4.0 deben ter unha conta rexistrada de Google. Os dispositivos con Android 4.0 ou posterior non precisan
-        a devandita conta, pero deben ter instalada a Play Store.
-    </string>
   <string name="RegistrationActivity_we_will_now_verify_that_the_following_number_is_associated_with_your_device_s">
         Comprobación dupla de que este é o teu número! A piques de confirmalo cunha SMS.
     </string>

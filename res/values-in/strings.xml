@@ -398,11 +398,6 @@ telah mengimport basis data sistem SMS, hal ini akan menyebabkan adanya duplikas
 isikan (%s) tidak tepat.
 </string>
   <string name="RegistrationActivity_unsupported">Tidak didukung</string>
-  <string name="RegistrationActivity_sorry_this_device_is_not_supported_for_data_messaging">Maaf,
-        perangkat ini tidak mendukung perpesanan data. Perangkat Android yang
-        lebih lama dari versi 4.0 harus memiliki dan terdaftar dengan Akun Google. Perangkat Android 4.0 atau lebih baru tidak membutuhkan
-        akun Google, tetapi harus memiliki dan memasang aplikasi Play Store.
-    </string>
   <string name="RegistrationActivity_we_will_now_verify_that_the_following_number_is_associated_with_your_device_s">
         Periksa lagi bahwa ini adalah nomor Anda! Kami akan memverifikasinya dengan SMS.
     </string>

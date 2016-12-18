@@ -445,10 +445,6 @@ telefona</string>
   <string name="RegistrationActivity_the_number_you_specified_s_is_invalid">Broj koji ste unijeli
 (%s) je neispravan.</string>
   <string name="RegistrationActivity_unsupported">Nepodržano</string>
-  <string name="RegistrationActivity_sorry_this_device_is_not_supported_for_data_messaging">Ovaj
-uređaj ne podržava podatkovne poruke. Uređaji sa Android inačicom starijom od 4.0
-moraju imati registrirani Google račun. Uređaji sa inačicom 4.0 ili novijom ne trebaju
-imati Google račun, ali moraju imati instaliranu aplikaciju Play trgovine.</string>
   <string name="RegistrationActivity_we_will_now_verify_that_the_following_number_is_associated_with_your_device_s">
 Provjerite da li je ovo vaš broj telefona! Uskoro ćemo poslati SMS poruku na njega kako bi ga provjerili.</string>
   <string name="RegistrationActivity_continue">Nastavi</string>

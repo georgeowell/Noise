@@ -389,11 +389,6 @@ mã số quốc gia bạn</string>
   <string name="RegistrationActivity_invalid_number">Số không đúng</string>
   <string name="RegistrationActivity_the_number_you_specified_s_is_invalid">Số bạn cung cấp (%s) không đúng.</string>
   <string name="RegistrationActivity_unsupported">Không hỗ trợ</string>
-  <string name="RegistrationActivity_sorry_this_device_is_not_supported_for_data_messaging">Xin lỗi,
-        thiết bị này không được hỗ trợ cho thông tin qua đường truyền dữ liệu. Thiết bị chạy phiên bản Android cũ
-        hơn 4.0 phải có Tài khoản Google đăng ký. Thiết bị chạy Android 4.0 hay mới hơn không cần
-        có tài khoản Google, nhưng phải cài đặt ứng dụng Cửa Hàng.
-    </string>
   <string name="RegistrationActivity_we_will_now_verify_that_the_following_number_is_associated_with_your_device_s">
         Xem lại lần nữa để bảo đảm đây là số của bạn! Chúng tôi sắp sửa phối kiểm nó với một SMS.
     </string>
