@@ -1,0 +1,3 @@
+include ':android', ':java'
+project(':android').projectDir = new File('libsignal-service-java/android')
+project(':java').projectDir = new File('libsignal-service-java/java')
