@@ -172,6 +172,7 @@ android {
     }
 
     defaultConfig {
+        applicationId "co.copperhead.noise"
         minSdkVersion 9
         targetSdkVersion 22
 
