@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Signal</string>
+  <string name="app_name">Noise</string>
   <string name="yes">Áno</string>
   <string name="no">Nie</string>
   <string name="delete">Zmazať</string>
@@ -24,7 +24,7 @@
   <string name="ApplicationPreferencesActivity_sms_enabled">SMS zapnuté</string>
   <string name="ApplicationPreferencesActivity_touch_to_change_your_default_sms_app">Dotykom sem môžete zmeniť Vašu predvolenú aplikáciu pre SMS.</string>
   <string name="ApplicationPreferencesActivity_sms_disabled">SMS vypnuté</string>
-  <string name="ApplicationPreferencesActivity_touch_to_make_signal_your_default_sms_app">Dotykom nastavte Signal ako Vašu predvolenú aplikáciu</string>
+  <string name="ApplicationPreferencesActivity_touch_to_make_signal_your_default_sms_app">Dotykom nastavte Noise ako Vašu predvolenú aplikáciu</string>
   <string name="ApplicationPreferencesActivity_on">zapnuté</string>
   <string name="ApplicationPreferencesActivity_On">Zapnuté</string>
   <string name="ApplicationPreferencesActivity_off">vypnuté</string>
@@ -59,7 +59,7 @@
   <string name="ConfirmIdentityDialog_accept">Potvrdiť</string>
   <!--ContactsDatabase-->
   <string name="ContactsDatabase_message_s">Správa %s</string>
-  <string name="ContactsDatabase_signal_call_s">Signal Hovor %s</string>
+  <string name="ContactsDatabase_signal_call_s">Noise Hovor %s</string>
   <!--ConversationItem-->
   <string name="ConversationItem_message_size_d_kb">Veľkosť správy: %d KB</string>
   <string name="ConversationItem_expires_s">Expirácia: %s</string>
@@ -104,7 +104,7 @@
   <string name="ConversationActivity_are_you_sure_you_want_to_leave_this_group">Ste si istí že chcete opustiť túto skupinu?</string>
   <string name="ConversationActivity_transport_insecure_sms">Nezašifrovaná SMS</string>
   <string name="ConversationActivity_transport_insecure_mms">Nezašifrovaná MMS</string>
-  <string name="ConversationActivity_transport_signal">Signal</string>
+  <string name="ConversationActivity_transport_signal">Noise</string>
   <string name="ConversationActivity_error_leaving_group">Chyba pri opúšťaní skupiny...</string>
   <string name="ConversationActivity_mms_not_supported_title">MMS nie sú podporované</string>
   <string name="ConversationActivity_mms_not_supported_message">Táto správa nemohla byť odoslaná keďže váš operátor nepodporuje MMS.</string>
@@ -132,7 +132,7 @@
   <string name="ConversationFragment_unable_to_write_to_sd_card_exclamation">Aplikácia nedokázala zapísať informácie na dátové úložisko zariadenia!</string>
   <string name="ConversationFragment_collecting_attahments">Ukladám prílohy...</string>
   <string name="ConversationFragment_pending">Čaká na spracovanie...</string>
-  <string name="ConversationFragment_push">Data (Signal)</string>
+  <string name="ConversationFragment_push">Data (Noise)</string>
   <string name="ConversationFragment_mms">MMS</string>
   <string name="ConversationFragment_sms">SMS</string>
   <string name="ConversationFragment_deleting">Vymazávanie</string>
@@ -220,7 +220,7 @@ opätovným importom zduplikujete správy.
   <!--MessageRecord-->
   <string name="MessageRecord_left_group">Opustili ste skupinu.</string>
   <string name="MessageRecord_updated_group">Skupina bola aktualizovaná.</string>
-  <string name="MessageRecord_s_is_on_signal_say_hey">%s už má tiež Signal, pozdravte ho!</string>
+  <string name="MessageRecord_s_is_on_signal_say_hey">%s už má tiež Noise, pozdravte ho!</string>
   <!--PassphraseChangeActivity-->
   <string name="PassphraseChangeActivity_passphrases_dont_match_exclamation">Heslá sa nezhodujú!</string>
   <string name="PassphraseChangeActivity_incorrect_old_passphrase_exclamation">Nesprávne staré heslo!</string>
@@ -244,7 +244,7 @@ opätovným importom zduplikujete správy.
   <string name="ExpirationDialog_your_messages_will_not_expire">Vaše správy nevypršia.</string>
   <!--PassphrasePromptActivity-->
   <string name="PassphrasePromptActivity_enter_passphrase">Zadajte heslo</string>
-  <string name="PassphrasePromptActivity_watermark_content_description">Signal ikona</string>
+  <string name="PassphrasePromptActivity_watermark_content_description">Noise ikona</string>
   <string name="PassphrasePromptActivity_ok_button_content_description">Odošli heslo</string>
   <string name="PassphrasePromptActivity_invalid_passphrase_exclamation">Nesprávne heslo!</string>
   <!--PlayServicesProblemFragment-->
@@ -348,10 +348,10 @@ Bola prijatá správa vzájomnej výmeny kľúčov s neplatnou verziou protokolu
   <string name="ThreadRecord_called_you">Volal Vám</string>
   <string name="ThreadRecord_missed_call">Zmeškaný hovor</string>
   <string name="ThreadRecord_media_message">Multimediálna správa</string>
-  <string name="ThreadRecord_s_is_on_signal_say_hey">%s už má tiež Signal, pozdravte ho!</string>
+  <string name="ThreadRecord_s_is_on_signal_say_hey">%s už má tiež Noise, pozdravte ho!</string>
   <string name="ThreadRecord_disappearing_message_time_updated_to_s">Čas na zmiznutie správy nastavený na %s</string>
   <!--VerifyIdentityActivity-->
-  <string name="VerifyIdentityActivity_our_signal_safety_number">Naše bezpečnostné Signal číslo:</string>
+  <string name="VerifyIdentityActivity_our_signal_safety_number">Naše bezpečnostné Noise číslo:</string>
   <!--KeyExchangeInitiator-->
   <string name="KeyExchangeInitiator_initiate_despite_existing_request_question">Začať aj napriek existujúcemu požiadavku?</string>
   <string name="KeyExchangeInitiator_send">Odošli</string>
@@ -380,7 +380,7 @@ Bola prijatá správa vzájomnej výmeny kľúčov s neplatnou verziou protokolu
   <!--KeyCachingService-->
   <string name="KeyCachingService_signal_passphrase_cached">Dotykom otvor.</string>
   <string name="KeyCachingService_signal_passphrase_cached_with_lock">Dotykom otvorte alebo dotykom zámku zatvorte.</string>
-  <string name="KeyCachingService_passphrase_cached">Signal je odomknutý</string>
+  <string name="KeyCachingService_passphrase_cached">Noise je odomknutý</string>
   <string name="KeyCachingService_lock">Zamkni s heslom</string>
   <!--MessageNotifier-->
   <string name="MessageNotifier_most_recent_from_s">Najnovšie od: %1$s</string>
@@ -395,7 +395,7 @@ Bola prijatá správa vzájomnej výmeny kľúčov s neplatnou verziou protokolu
   <string name="MessageNotifier_reply">Odpovedať</string>
   <!--QuickResponseService-->
   <!--SingleRecipientNotificationBuilder-->
-  <string name="SingleRecipientNotificationBuilder_signal">Signal</string>
+  <string name="SingleRecipientNotificationBuilder_signal">Noise</string>
   <string name="SingleRecipientNotificationBuilder_new_message">Nová správa</string>
   <!--attachment_type_selector-->
   <string name="attachment_type_selector__image">Obrázok</string>
@@ -431,7 +431,7 @@ Bola prijatá správa vzájomnej výmeny kľúčov s neplatnou verziou protokolu
   <!--conversation_title_view-->
   <string name="conversation_title_view__conversation_muted">Konverzácia umlčaná.</string>
   <!--conversation_activity-->
-  <string name="conversation_activity__type_message_push">Poslať Signal správu</string>
+  <string name="conversation_activity__type_message_push">Poslať Noise správu</string>
   <string name="conversation_activity__type_message_sms_insecure">Poslať nezašifrovanú SMS</string>
   <string name="conversation_activity__type_message_mms_insecure">Poslať nezašifrovanú MMS</string>
   <string name="conversation_activity__from_sim_name">Od %1$s</string>
@@ -736,7 +736,7 @@ zlyhalo.
   <string name="text_secure_normal__mark_all_as_read">Označ všetky prečítané</string>
   <!--verify_display_fragment-->
   <!--reminder_header-->
-  <string name="reminder_header_sms_default_text">Ťuknutím nastavte Signal ako Vašu predvolenú SMS aplikáciu.</string>
+  <string name="reminder_header_sms_default_text">Ťuknutím nastavte Noise ako Vašu predvolenú SMS aplikáciu.</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">Vy</string>
   <string name="MediaPreviewActivity_cant_display">Nepodarilo sa zobraziť náhľad pre tento obrázok</string>

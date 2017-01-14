@@ -414,7 +414,7 @@ SMS-те от системния архив в Сигнал. Ако вече с�
   <string name="RedPhone_recipient_unavailable">Приемащия повикването не е на линия</string>
   <string name="RedPhone_performing_handshake">Установяване на връзка</string>
   <string name="RedPhone_network_failed">Грешка в мрежата!</string>
-  <string name="RedPhone_client_failed">Грешка в Signal!</string>
+  <string name="RedPhone_client_failed">Грешка в Noise!</string>
   <string name="RedPhone_fatal_error">Фатална грешка</string>
   <string name="RedPhone_login_failed">Неуспешно вписване!</string>
   <string name="RedPhone_message_from_the_server">Съобщение от сървъра</string>

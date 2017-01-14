@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Signal</string>
+  <string name="app_name">Noise</string>
   <string name="yes">Ja</string>
   <string name="no">Nei</string>
   <string name="delete">Slett</string>
@@ -21,7 +21,7 @@
   </plurals>
   <string name="ApplicationPreferencesActivity_delete">Slett</string>
   <string name="ApplicationPreferencesActivity_disable_passphrase">Vil du slå av bruk av passordfrase?</string>
-  <string name="ApplicationPreferencesActivity_this_will_permanently_unlock_signal_and_message_notifications">Dette låser opp Signal og meldingsvarsel.</string>
+  <string name="ApplicationPreferencesActivity_this_will_permanently_unlock_signal_and_message_notifications">Dette låser opp Noise og meldingsvarsel.</string>
   <string name="ApplicationPreferencesActivity_disable">Slå av</string>
   <string name="ApplicationPreferencesActivity_unregistering">Avregistrerer</string>
   <string name="ApplicationPreferencesActivity_unregistering_from_signal_messages_and_calls">Avregistrerer frå Signal-meldingar og -samtalar </string>
@@ -31,7 +31,7 @@
   <string name="ApplicationPreferencesActivity_sms_enabled">SMS slått på</string>
   <string name="ApplicationPreferencesActivity_touch_to_change_your_default_sms_app">Trykk for å byta forvald SMS-program</string>
   <string name="ApplicationPreferencesActivity_sms_disabled">SMS slått av</string>
-  <string name="ApplicationPreferencesActivity_touch_to_make_signal_your_default_sms_app">Trykk for å bruka Signal som standard SMS-program</string>
+  <string name="ApplicationPreferencesActivity_touch_to_make_signal_your_default_sms_app">Trykk for å bruka Noise som standard SMS-program</string>
   <string name="ApplicationPreferencesActivity_on">på</string>
   <string name="ApplicationPreferencesActivity_On">På</string>
   <string name="ApplicationPreferencesActivity_off">av</string>
@@ -64,7 +64,7 @@
   <!--CallScreen-->
   <string name="CallScreen_Incoming_call">Inngåande samtale</string>
   <!--ConfirmIdentityDialog-->
-  <string name="ConfirmIdentityDialog_your_safety_number_with_s_has_changed">Tryggleiksnummeret ditt med %1$s har endra seg. Dette kan tyda på at nokon prøver å overvaka kommunikasjonen, eller at %2$s berre har installert Signal på nytt.</string>
+  <string name="ConfirmIdentityDialog_your_safety_number_with_s_has_changed">Tryggleiksnummeret ditt med %1$s har endra seg. Dette kan tyda på at nokon prøver å overvaka kommunikasjonen, eller at %2$s berre har installert Noise på nytt.</string>
   <string name="ConfirmIdentityDialog_you_may_wish_to_verify_your_safety_number_with_this_contact">Du ynskjer kanskje å stadfesta tryggleiksnummeret ditt med denne kontakten.</string>
   <string name="ConfirmIdentityDialog_accept">Godta</string>
   <!--ContactsDatabase-->
@@ -83,7 +83,7 @@
   <string name="ConversationItem_click_to_approve_unencrypted">Trykk for usikker reserveløysing</string>
   <string name="ConversationItem_click_to_approve_unencrypted_sms_dialog_title">Vil du bruka ukryptert SMS som reserveløysing?</string>
   <string name="ConversationItem_click_to_approve_unencrypted_mms_dialog_title">Vil du bruka ukryptert MMS som reserveløysing?</string>
-  <string name="ConversationItem_click_to_approve_unencrypted_dialog_message">Denne meldinga vert <b>ikkje</b> kryptert, fordi mottakaren ikkje brukar Signal lenger.\n\nVil du senda ho ukryptert?</string>
+  <string name="ConversationItem_click_to_approve_unencrypted_dialog_message">Denne meldinga vert <b>ikkje</b> kryptert, fordi mottakaren ikkje brukar Noise lenger.\n\nVil du senda ho ukryptert?</string>
   <string name="ConversationItem_unable_to_open_media">Fann inga program som kan opna dette innhaldet.</string>
   <string name="ConversationItem_from_s">frå %s</string>
   <string name="ConversationItem_to_s">til %s</string>
@@ -117,8 +117,8 @@
   <string name="ConversationActivity_are_you_sure_you_want_to_leave_this_group">Er du sikker på at du vil forlata gruppa?</string>
   <string name="ConversationActivity_transport_insecure_sms">Usikker SMS</string>
   <string name="ConversationActivity_transport_insecure_mms">Usikker MMS</string>
-  <string name="ConversationActivity_transport_signal">Signal</string>
-  <string name="ConversationActivity_lets_switch_to_signal">La oss byte til Signal %1$s</string>
+  <string name="ConversationActivity_transport_signal">Noise</string>
+  <string name="ConversationActivity_lets_switch_to_signal">La oss byte til Noise %1$s</string>
   <string name="ConversationActivity_lets_use_this_to_chat">La oss bruka dette til å prata: %1$s</string>
   <string name="ConversationActivity_error_leaving_group">Klarte ikkje å forlata gruppa på grunn av programfeil </string>
   <string name="ConversationActivity_mms_not_supported_title">MMS vert ikkje støtta</string>
@@ -167,7 +167,7 @@
   </plurals>
   <string name="ConversationFragment_collecting_attahments">Hentar vedlegg …</string>
   <string name="ConversationFragment_pending">Ventar </string>
-  <string name="ConversationFragment_push">Data (Signal)</string>
+  <string name="ConversationFragment_push">Data (Noise)</string>
   <string name="ConversationFragment_mms">MMS</string>
   <string name="ConversationFragment_sms">SMS</string>
   <string name="ConversationFragment_deleting">Sletter</string>
@@ -220,11 +220,11 @@
   <!--ShareActivity-->
   <string name="ShareActivity_share_with">Del med</string>
   <!--ExperienceUpgradeActivity-->
-  <string name="ExperienceUpgradeActivity_welcome_to_signal_dgaf">Velkomen til Signal.</string>
-  <string name="ExperienceUpgradeActivity_textsecure_is_now_called_signal">TextSecure og RedPhone er no eitt program for privat kommunikasjon, til alle føremål: Signal.</string>
-  <string name="ExperienceUpgradeActivity_welcome_to_signal_excited">Velkomen til Signal!</string>
-  <string name="ExperienceUpgradeActivity_textsecure_is_now_signal">TextSecure er no Signal.</string>
-  <string name="ExperienceUpgradeActivity_textsecure_is_now_signal_long">TextSecure og RedPhone er no eitt program: Signal. Trykk for å utforska.</string>
+  <string name="ExperienceUpgradeActivity_welcome_to_signal_dgaf">Velkomen til Noise.</string>
+  <string name="ExperienceUpgradeActivity_textsecure_is_now_called_signal">TextSecure og RedPhone er no eitt program for privat kommunikasjon, til alle føremål: Noise.</string>
+  <string name="ExperienceUpgradeActivity_welcome_to_signal_excited">Velkomen til Noise!</string>
+  <string name="ExperienceUpgradeActivity_textsecure_is_now_signal">TextSecure er no Noise.</string>
+  <string name="ExperienceUpgradeActivity_textsecure_is_now_signal_long">TextSecure og RedPhone er no eitt program: Noise. Trykk for å utforska.</string>
   <!--ExportFragment-->
   <string name="ExportFragment_export">Eksporter</string>
   <string name="ExportFragment_export_plaintext_to_storage">Vil du eksportera klartekst som vanleg fil?</string>
@@ -237,7 +237,7 @@
   <string name="ExportFragment_export_successful">Eksportering er utført.</string>
   <!--GcmRefreshJob-->
   <string name="GcmRefreshJob_Permanent_Signal_communication_failure">Varig Signal-kommunikasjonsfeil.</string>
-  <string name="GcmRefreshJob_Signal_was_unable_to_register_with_Google_Play_Services">Signal klarte ikkje å registrera seg som Google Play-teneste. Signal-meldingar og samtalar er difor slått av. Prøv å registrera programmet på nytt under Innstillingar &gt; Avansert.</string>
+  <string name="GcmRefreshJob_Signal_was_unable_to_register_with_Google_Play_Services">Noise klarte ikkje å registrera seg som Google Play-teneste. Signal-meldingar og samtalar er difor slått av. Prøv å registrera programmet på nytt under Innstillingar &gt; Avansert.</string>
   <!--GiphyActivity-->
   <!--GiphyFragmentPageAdapter-->
   <string name="GiphyFragmentPagerAdapter_gifs">GIF-ar</string>
@@ -256,7 +256,7 @@
   <string name="GroupCreateActivity_menu_create_title">Lag gruppe</string>
   <string name="GroupCreateActivity_creating_group">Lagar %1$s …</string>
   <string name="GroupCreateActivity_updating_group">Oppdaterer %1$s …</string>
-  <string name="GroupCreateActivity_cannot_add_non_push_to_existing_group">Klarte ikkje å leggja til %1$s fordi vedkomande ikkje brukar Signal.</string>
+  <string name="GroupCreateActivity_cannot_add_non_push_to_existing_group">Klarte ikkje å leggja til %1$s fordi vedkomande ikkje brukar Noise.</string>
   <string name="GroupCreateActivity_loading_group_details">Lastar inn gruppedetaljar </string>
   <string name="GroupCreateActivity_youre_already_in_the_group">Du ligg allereie i gruppa.</string>
   <!--GroupMembersDialog-->
@@ -267,7 +267,7 @@
   <!--ImportFragment-->
   <string name="ImportFragment_import_system_sms_database">Vil du importera SMS-systemdatabase?</string>
   <string name="ImportFragment_this_will_import_messages_from_the_system">Denne handlinga importerer
-meldingar frå systemet sin SMS-database til Signal. Viss du har
+meldingar frå systemet sin SMS-database til Noise. Viss du har
 importert systemet sin SMS-database tidlegare, fører dette til dupliserte meldingar.</string>
   <string name="ImportFragment_import">Importer</string>
   <string name="ImportFragment_cancel">Avbryt</string>
@@ -299,7 +299,7 @@ fører dette til dupliserte meldingar.</string>
   <string name="InviteActivity_sending">Sendar …</string>
   <string name="InviteActivity_heart_content_description">Hjarte</string>
   <string name="InviteActivity_invitations_sent">Invitasjonar sendt.</string>
-  <string name="InviteActivity_invite_to_signal">Inviter til Signal</string>
+  <string name="InviteActivity_invite_to_signal">Inviter til Noise</string>
   <plurals name="InviteActivity_send_sms_to_friends">
     <item quantity="one">SEND SMS TIL 1 VENN</item>
     <item quantity="other">SEND SMS TIL %d VENNAR</item>
@@ -308,13 +308,13 @@ fører dette til dupliserte meldingar.</string>
     <item quantity="one">Vil du senda 1 SMS-invitasjon?</item>
     <item quantity="other">Vil du senda %d SMS-invitasjonar?</item>
   </plurals>
-  <string name="InviteActivity_lets_switch_to_signal">La oss byta til Signal. %1$s</string>
+  <string name="InviteActivity_lets_switch_to_signal">La oss byta til Noise. %1$s</string>
   <string name="InviteActivity_no_app_to_share_to">Det ser ut som at du ikkje har nokon program å dela denne informasjonen med.</string>
   <string name="InviteActivity_friends_dont_let_friends_text_unencrypted">Vennar burde ikkje prata ukryptert over nettet.</string>
   <!--KeyScanningActivity-->
   <string name="KeyScanningActivity_no_scanned_key_found_exclamation">Fann ingen skanna nøkkel.</string>
   <string name="KeyScanningActivity_install_barcode_Scanner">Vil du installera ein strekkode-skannar?</string>
-  <string name="KeyScanningActivity_this_application_requires_barcode_scanner_would_you_like_to_install_it">Signal treng Barcode Scanner for å kunna tolka QR-kodar.</string>
+  <string name="KeyScanningActivity_this_application_requires_barcode_scanner_would_you_like_to_install_it">Noise treng Barcode Scanner for å kunna tolka QR-kodar.</string>
   <!--MessageDetailsRecipient-->
   <string name="MessageDetailsRecipient_failed_to_send">Sending mislukkast</string>
   <string name="MessageDetailsRecipient_new_safety_number">Nytt tryggleiksnummer</string>
@@ -333,13 +333,13 @@ fører dette til dupliserte meldingar.</string>
   <!--NotificationMmsMessageRecord-->
   <string name="NotificationMmsMessageRecord_multimedia_message">Multimediemelding</string>
   <!--MessageRecord-->
-  <string name="MessageRecord_message_encrypted_with_a_legacy_protocol_version_that_is_no_longer_supported">Mottok ei melding som er kryptert med ein gammal versjon av Signal som ikkje lenger vert støtta. Be avsendaren om å oppdatera til nyaste versjon og senda meldinga på nytt.</string>
+  <string name="MessageRecord_message_encrypted_with_a_legacy_protocol_version_that_is_no_longer_supported">Mottok ei melding som er kryptert med ein gammal versjon av Noise som ikkje lenger vert støtta. Be avsendaren om å oppdatera til nyaste versjon og senda meldinga på nytt.</string>
   <string name="MessageRecord_left_group">Du har forlate gruppa.</string>
   <string name="MessageRecord_updated_group">Oppdatert gruppe.</string>
   <string name="MessageRecord_s_called_you">%s ringte deg</string>
   <string name="MessageRecord_called_s">Ringte %s</string>
   <string name="MessageRecord_missed_call_from">Tapt anrop frå %s</string>
-  <string name="MessageRecord_s_is_on_signal_say_hey">%s er på Signal. Sei hei!</string>
+  <string name="MessageRecord_s_is_on_signal_say_hey">%s er på Noise. Sei hei!</string>
   <string name="MessageRecord_you_set_disappearing_message_time_to_s">Du stilte inn at meldingar skal forsvinna etter %1$s.</string>
   <string name="MessageRecord_s_set_disappearing_message_time_to_s">%1$s lot meldingar forsvinna etter %2$s.</string>
   <string name="MessageRecord_your_safety_number_with_s_has_changed">Tryggleiksnummeret ditt med %s har endra seg.</string>
@@ -364,7 +364,7 @@ fører dette til dupliserte meldingar.</string>
   <string name="DeviceProvisioningActivity_content_progress_key_error">Ugyldig QR-kode.</string>
   <string name="DeviceActivity_sorry_this_is_not_a_valid_device_link_qr_code">Dette er ikkje ein gyldig QR-kode for einingstilkopling.</string>
   <string name="DeviceProvisioningActivity_link_a_signal_device">Vil du kopla til ei Signal-eining?</string>
-  <string name="DeviceProvisioningActivity_it_looks_like_youre_trying_to_link_a_signal_device_using_a_3rd_party_scanner">Det ser ut som at du prøver å kopla ei eining til Signal ved hjelp av ein tredjepartsskannar. For din eigen tryggleik må du skanna koden på nytt via Signal.</string>
+  <string name="DeviceProvisioningActivity_it_looks_like_youre_trying_to_link_a_signal_device_using_a_3rd_party_scanner">Det ser ut som at du prøver å kopla ei eining til Noise ved hjelp av ein tredjepartsskannar. For din eigen tryggleik må du skanna koden på nytt via Noise.</string>
   <!--ExpirationDialog-->
   <string name="ExpirationDialog_disappearing_messages">Utløpstid for meldingar</string>
   <string name="ExpirationDialog_your_messages_will_not_expire">Meldingar går ikkje ut på tid.</string>
@@ -414,7 +414,7 @@ fører dette til dupliserte meldingar.</string>
   <string name="RedPhone_the_number_you_dialed_does_not_support_secure_voice">Nummeret du ringte støttar ikkje sikker stemme!</string>
   <string name="RedPhone_got_it">Ålreit</string>
   <!--RegistrationActivity-->
-  <string name="RegistrationActivity_connect_with_signal">Kopla til med Signal</string>
+  <string name="RegistrationActivity_connect_with_signal">Kopla til med Noise</string>
   <string name="RegistrationActivity_select_your_country">Vel land</string>
   <string name="RegistrationActivity_you_must_specify_your_country_code">Du må oppgje
 landkoden din</string>
@@ -478,12 +478,12 @@ Mottok nøkkelutvekslingsmelding for ugyldig protokollversjon.</string>
   <string name="ThreadRecord_called_you">Ringte deg</string>
   <string name="ThreadRecord_missed_call">Usvart anrop</string>
   <string name="ThreadRecord_media_message">Mediemelding</string>
-  <string name="ThreadRecord_s_is_on_signal_say_hey">%s er på Signal. Sei hei!</string>
+  <string name="ThreadRecord_s_is_on_signal_say_hey">%s er på Noise. Sei hei!</string>
   <string name="ThreadRecord_disappearing_message_time_updated_to_s">Utløpstid for melding endra til %s</string>
   <string name="ThreadRecord_your_safety_number_with_s_has_changed">Tryggleiksnummeret ditt med %s har endra seg.</string>
   <!--VerifyIdentityActivity-->
-  <string name="VerifyIdentityActivity_your_contact_is_running_an_old_version_of_signal">Kontakten din køyrer ein gammal versjon av Signal. Ver venleg og be dei om å oppdatera før du stadfestar tryggleiksnummeret ditt.</string>
-  <string name="VerifyIdentityActivity_your_contact_is_running_a_newer_version_of_Signal">Kontakten din køyrer ein nyare versjon av Signal med eit inkompatibelt QR-kodeformat. Ver venleg og oppdater for å samanlikna.</string>
+  <string name="VerifyIdentityActivity_your_contact_is_running_an_old_version_of_signal">Kontakten din køyrer ein gammal versjon av Noise. Ver venleg og be dei om å oppdatera før du stadfestar tryggleiksnummeret ditt.</string>
+  <string name="VerifyIdentityActivity_your_contact_is_running_a_newer_version_of_Signal">Kontakten din køyrer ein nyare versjon av Noise med eit inkompatibelt QR-kodeformat. Ver venleg og oppdater for å samanlikna.</string>
   <string name="VerifyIdentityActivity_the_scanned_qr_code_is_not_a_correctly_formatted_safety_number">Den skanna QR-koden er ikkje ein riktig formatert stadfestingskode. Ver venleg og prøv å skanna på nytt.</string>
   <string name="VerifyIdentityActivity_share_safety_number_via">Del tryggleiksnummeret via …</string>
   <string name="VerifyIdentityActivity_our_signal_safety_number">Vårt Signal-tryggleiksnummer:</string>
@@ -517,7 +517,7 @@ Mottok nøkkelutvekslingsmelding for ugyldig protokollversjon.</string>
   <!--KeyCachingService-->
   <string name="KeyCachingService_signal_passphrase_cached">Trykk for å opna.</string>
   <string name="KeyCachingService_signal_passphrase_cached_with_lock">Trykk for å opna, eller trykk på lås for å lukka.</string>
-  <string name="KeyCachingService_passphrase_cached">Signal er låst opp</string>
+  <string name="KeyCachingService_passphrase_cached">Noise er låst opp</string>
   <string name="KeyCachingService_lock">Lås med passordfrase</string>
   <!--MessageNotifier-->
   <string name="MessageNotifier_d_new_messages_in_d_conversations">%1$d nye meldingar i %2$d samtalar</string>
@@ -532,10 +532,10 @@ Mottok nøkkelutvekslingsmelding for ugyldig protokollversjon.</string>
   <string name="MessageNotifier_media_message">Mediemelding</string>
   <string name="MessageNotifier_reply">Svar</string>
   <!--QuickResponseService-->
-  <string name="QuickResponseService_quick_response_unavailable_when_Signal_is_locked">Hurtigsvar er utilgjengeleg når Signal er låst.</string>
+  <string name="QuickResponseService_quick_response_unavailable_when_Signal_is_locked">Hurtigsvar er utilgjengeleg når Noise er låst.</string>
   <string name="QuickResponseService_problem_sending_message">Det oppstod eit problem under sending av melding.</string>
   <!--SingleRecipientNotificationBuilder-->
-  <string name="SingleRecipientNotificationBuilder_signal">Signal</string>
+  <string name="SingleRecipientNotificationBuilder_signal">Noise</string>
   <string name="SingleRecipientNotificationBuilder_new_message">Ny melding</string>
   <!--attachment_type_selector-->
   <string name="attachment_type_selector__image">Bilete</string>
@@ -584,7 +584,7 @@ Mottok nøkkelutvekslingsmelding for ugyldig protokollversjon.</string>
   <string name="conversation_activity__attachment_thumbnail">Miniatyrbilete av vedlegg</string>
   <string name="conversation_activity__quick_attachment_drawer_toggle_camera_description">Vis/skjul vedleggspanel for snøggkamera</string>
   <string name="conversation_activity__quick_attachment_drawer_record_and_send_audio_description">Ta opp og senda lydvedlegg</string>
-  <string name="conversation_activity__enable_signal_for_sms">Aktiver Signal for SMS</string>
+  <string name="conversation_activity__enable_signal_for_sms">Aktiver Noise for SMS</string>
   <!--conversation_input_panel-->
   <string name="conversation_input_panel__slide_to_cancel">SKYV FOR Å AVBRYTA</string>
   <!--conversation_item-->
@@ -657,7 +657,7 @@ Mottok nøkkelutvekslingsmelding for ugyldig protokollversjon.</string>
   <string name="log_submit_activity__posting_logs">Sender inn logg til gist …</string>
   <string name="log_submit_activity__no_browser_installed">Ingen nettlesar installert</string>
   <!--database_migration_activity-->
-  <string name="database_migration_activity__would_you_like_to_import_your_existing_text_messages">Vil du importera tekstmeldingar som ligg på eininga til Signal sin krypterte database?</string>
+  <string name="database_migration_activity__would_you_like_to_import_your_existing_text_messages">Vil du importera tekstmeldingar som ligg på eininga til Noise sin krypterte database?</string>
   <string name="database_migration_activity__the_default_system_database_will_not_be_modified">Standard systemdatabase vert ikkje endra på nokon måte.</string>
   <string name="database_migration_activity__skip">Hopp over</string>
   <string name="database_migration_activity__import">Importar</string>
@@ -697,7 +697,7 @@ Mottok nøkkelutvekslingsmelding for ugyldig protokollversjon.</string>
   <!--prompt_passphrase_activity-->
   <string name="prompt_passphrase_activity__unlock">Lås opp</string>
   <!--prompt_mms_activity-->
-  <string name="prompt_mms_activity__signal_requires_mms_settings_to_deliver_media_and_group_messages">Signal krev MMS-oppsett for å levera media og gruppemeldingar via mobilnett. Eininga di gjer ikkje ikkje denne informasjonen tilgjengeleg. Dette er vanleg på einingar med restriktive oppsett.</string>
+  <string name="prompt_mms_activity__signal_requires_mms_settings_to_deliver_media_and_group_messages">Noise krev MMS-oppsett for å levera media og gruppemeldingar via mobilnett. Eininga di gjer ikkje ikkje denne informasjonen tilgjengeleg. Dette er vanleg på einingar med restriktive oppsett.</string>
   <string name="prompt_mms_activity__to_send_media_and_group_messages_tap_ok">Trykk «OK» og følg rettleiinga viss du vil senda medie- og gruppemeldingar. Du finn vanlegvis MMS-oppsettet for operatøren din ved å søkja på nettet etter «operatøren din APN». Du treng berre å gjera dette éin gong.</string>
   <!--recipient_preferences_activity-->
   <string name="recipient_preference_activity__blocked">BLOKKERT</string>
@@ -718,7 +718,7 @@ Mottok nøkkelutvekslingsmelding for ugyldig protokollversjon.</string>
   <string name="redphone_call_controls__signal_call">Signal-anrop</string>
   <!--registration_activity-->
   <string name="registration_activity__verify_your_number_to_connect_with_signal">
-Stadfest telefonnummeret ditt for kopla til Signal.</string>
+Stadfest telefonnummeret ditt for kopla til Noise.</string>
   <string name="registration_activity__your_country">LAND</string>
   <string name="registration_activity__your_country_code_and_phone_number">LANDKODE OG
 TELEFONNUMMER</string>
@@ -740,18 +740,18 @@ Kontroller at du har skrive inn rett nummer, og at det har korrekt format for
 regionen din.</string>
   <string name="registration_problems__google_voice">Google Voice.</string>
   <string name="registration_problems__signal_will_not_work_with_google_voice_numbers">
-Signal fungerer ikkje med Google Voice-nummer.
+Noise fungerer ikkje med Google Voice-nummer.
 </string>
   <!--registration_progress_activity-->
   <string name="registration_progress_activity__voice_verification">Stemmestadfesting</string>
   <string name="registration_progress_activity__signal_can_also_call_you_to_verify_your_number">
-Signal kan òg ringa deg for å stadfesta nummeret ditt. Trykk «Ring meg» og skriv inn den sekssifra
+Noise kan òg ringa deg for å stadfesta nummeret ditt. Trykk «Ring meg» og skriv inn den sekssifra
 koden som du høyrer nedanfor.</string>
   <string name="registration_progress_activity__verify">Stadfest</string>
   <string name="registration_progress_activity__call_me">Ring meg</string>
   <string name="registration_progress_activity__edit_number">Rediger nummer</string>
   <string name="registration_progress_activity__connectivity_error">Tilkoplingsfeil.</string>
-  <string name="registration_progress_activity__signal_was_unable_to_connect_to_the_server">Signal klarte ikkje å kopla til tenaren.</string>
+  <string name="registration_progress_activity__signal_was_unable_to_connect_to_the_server">Noise klarte ikkje å kopla til tenaren.</string>
   <string name="registration_progress_activity__some_possible_problems_include">Følgjande problem
 er vanlege:</string>
   <string name="registration_progress_activity__no_network_connectivity">Inga
@@ -765,7 +765,7 @@ at mobildata eller Wifi er slått på og kopla til.</string>
 Viss du er tilkopla via Wifi, er det mogleg at ein brannmur blokkerer tilgangen til
 Signal-tenaren. Prøv i så fall eit anna nettverk eller slå på mobildata.</string>
   <string name="registration_progress_activity__signal_will_now_automatically_verify_your_number_with_a_confirmation_sms_message">
-Signal prøver no å stadfesta nummeret ditt med SMS.</string>
+Noise prøver no å stadfesta nummeret ditt med SMS.</string>
   <string name="registration_progress_activity__connecting">Koplar til …</string>
   <string name="registration_progress_activity__waiting_for_sms_verification">Ventar på
 SMS-stadfesting …</string>
@@ -773,7 +773,7 @@ SMS-stadfesting …</string>
   <string name="registration_progress_activity__this_couild_take_a_moment_please_be_patient">Dette
 kan ta litt tid. Vi varslar deg når stadfestinga er ferdig.</string>
   <string name="registration_progress_activity__signal_timed_out_while_waiting_for_a_verification_sms_message">
-Signal fekk tidsavbrot ved venting på stadfestingsmeldinga.</string>
+Noise fekk tidsavbrot ved venting på stadfestingsmeldinga.</string>
   <string name="registration_progress_activity__sms_verification_failed">Feil ved SMS-stadfesting.</string>
   <string name="registration_progress_activity__generating_keys">Lagar nøklar …</string>
   <string name="registration_progress_activity__alert">Varsel</string>
@@ -800,7 +800,7 @@ Signal fekk tidsavbrot ved venting på stadfestingsmeldinga.</string>
   <string name="AndroidManifest__create_passphrase">Lag passordfrase</string>
   <string name="AndroidManifest__enter_passphrase">Skriv inn passordfrase</string>
   <string name="AndroidManifest__select_contacts">Vel kontaktar</string>
-  <string name="AndroidManifest__signal_detected">Signal oppdaga</string>
+  <string name="AndroidManifest__signal_detected">Noise oppdaga</string>
   <string name="AndroidManifest__change_passphrase">Endra passordfrase</string>
   <string name="AndroidManifest__verify_safety_number">Stadfest tryggleiksnummeret</string>
   <string name="AndroidManifest__log_submit">Send debug-logg</string>
@@ -839,8 +839,8 @@ Signal fekk tidsavbrot ved venting på stadfestingsmeldinga.</string>
   <string name="preferences__sms_mms">SMS og MMS</string>
   <string name="preferences__pref_all_sms_title">Ta imot alle SMS</string>
   <string name="preferences__pref_all_mms_title">Ta imot alle MMS</string>
-  <string name="preferences__use_signal_for_viewing_and_storing_all_incoming_text_messages">Bruk Signal for alle inngåande tekstmeldingar </string>
-  <string name="preferences__use_signal_for_viewing_and_storing_all_incoming_multimedia_messages">Bruk Signal for alle inngåande multimediemeldingar </string>
+  <string name="preferences__use_signal_for_viewing_and_storing_all_incoming_text_messages">Bruk Noise for alle inngåande tekstmeldingar </string>
+  <string name="preferences__use_signal_for_viewing_and_storing_all_incoming_multimedia_messages">Bruk Noise for alle inngåande multimediemeldingar </string>
   <string name="preferences__input_settings">inndatainnstillingar</string>
   <string name="preferences__enable_enter_key_title">Slå på linjeskift-tast</string>
   <string name="preferences__replace_smiley_with_enter_key">Byt ut smiley-tast med linjeskift</string>
@@ -852,10 +852,10 @@ Signal fekk tidsavbrot ved venting på stadfestingsmeldinga.</string>
   <string name="preferences__change_passphrase">Endre passordfrase</string>
   <string name="preferences__change_your_passphrase">Endre passordfrase</string>
   <string name="preferences__enable_passphrase">Slå på passordfrase</string>
-  <string name="preferences__lock_signal_and_message_notifications_with_a_passphrase">Lås Signal og meldingsvarsel med passordfrase</string>
+  <string name="preferences__lock_signal_and_message_notifications_with_a_passphrase">Lås Noise og meldingsvarsel med passordfrase</string>
   <string name="preferences__screen_security">Skjermtryggleik</string>
   <string name="preferences__disable_screen_security_to_allow_screen_shots">Blokker skjermbilete i sist brukte-liste og i programmetb</string>
-  <string name="preferences__auto_lock_signal_after_a_specified_time_interval_of_inactivity">Lås Signal automatisk etter vald tid utan aktivitet</string>
+  <string name="preferences__auto_lock_signal_after_a_specified_time_interval_of_inactivity">Lås Noise automatisk etter vald tid utan aktivitet</string>
   <string name="preferences__inactivity_timeout_passphrase">passordfrase ved tidsavbrot</string>
   <string name="preferences__inactivity_timeout_interval">Tidsavbrot ved inaktivitet</string>
   <string name="preferences__notifications">Varsel</string>
@@ -938,7 +938,7 @@ Signal fekk tidsavbrot ved venting på stadfestingsmeldinga.</string>
   <string name="preferences_chats__media_auto_download">Automatisk nedlasting av media</string>
   <string name="preferences_chats__message_trimming">Meldingsforkorting</string>
   <string name="preferences_advanced__use_system_emoji">Bruk emoji på systemet</string>
-  <string name="preferences_advanced__disable_signal_built_in_emoji_support">Slå av innebygd emoji-støtte i Signal</string>
+  <string name="preferences_advanced__disable_signal_built_in_emoji_support">Slå av innebygd emoji-støtte i Noise</string>
   <!--****************************************-->
   <!--menus-->
   <!--****************************************-->
@@ -1025,27 +1025,27 @@ Signal fekk tidsavbrot ved venting på stadfestingsmeldinga.</string>
   <!--reminder_header-->
   <string name="reminder_header_outdated_build">Denne Signal-installasjonen er utdatert</string>
   <plurals name="reminder_header_outdated_build_details">
-    <item quantity="one">Denne versjonen av Signal kjem frå om 1 dag. Trykk for å oppdatera til nyaste versjon.</item>
-    <item quantity="other">Denne utgåva av Signal blir forelda om %d dagar. Trykk for å oppdatera til nyaste utgåve.</item>
+    <item quantity="one">Denne versjonen av Noise kjem frå om 1 dag. Trykk for å oppdatera til nyaste versjon.</item>
+    <item quantity="other">Denne utgåva av Noise blir forelda om %d dagar. Trykk for å oppdatera til nyaste utgåve.</item>
   </plurals>
-  <string name="reminder_header_outdated_build_details_today">Denne utgåva av Signal er forelda frå og med i dag. Trykk for å oppdatera til nyaste utgåve.</string>
-  <string name="reminder_header_expired_build">Denne utgåva av Signal er forelda!</string>
+  <string name="reminder_header_outdated_build_details_today">Denne utgåva av Noise er forelda frå og med i dag. Trykk for å oppdatera til nyaste utgåve.</string>
+  <string name="reminder_header_expired_build">Denne utgåva av Noise er forelda!</string>
   <string name="reminder_header_expired_build_details">Meldingar vert frå no av ikkje send. Trykk for å oppdatera til nyaste versjon.</string>
   <string name="reminder_header_expired_build_button">OPPDATERING</string>
   <string name="reminder_header_sms_default_title">Bruk som forvald SMS-program</string>
-  <string name="reminder_header_sms_default_text">Trykk for å gjera Signal til forvald SMS-program.</string>
+  <string name="reminder_header_sms_default_text">Trykk for å gjera Noise til forvald SMS-program.</string>
   <string name="reminder_header_sms_default_button">VEL</string>
   <string name="reminder_header_sms_import_title">Importer system-SMS</string>
-  <string name="reminder_header_sms_import_text">Trykk for å kopiera telefonen sin SMS-meldingar til Signal sin krypterte database.</string>
+  <string name="reminder_header_sms_import_text">Trykk for å kopiera telefonen sin SMS-meldingar til Noise sin krypterte database.</string>
   <string name="reminder_header_sms_import_button">IMPORTER</string>
   <string name="reminder_header_push_title">Slå på Signal-meldingar og -samtalar</string>
   <string name="reminder_header_push_text">Oppgrader kommunikasjonsopplevinga.</string>
   <string name="reminder_header_push_button">SLÅ PÅ</string>
-  <string name="reminder_header_invite_title">Inviter til Signal</string>
+  <string name="reminder_header_invite_title">Inviter til Noise</string>
   <string name="reminder_header_invite_text">Ta samtalen med %1$sjå til neste nivå.</string>
   <string name="reminder_header_invite_button">INVITER</string>
   <string name="reminder_header_share_title">Inviter vennane dine!</string>
-  <string name="reminder_header_share_text">Jo fleire vennar som brukar Signal, desto betre vert det.</string>
+  <string name="reminder_header_share_text">Jo fleire vennar som brukar Noise, desto betre vert det.</string>
   <string name="reminder_header_share_button">DEL</string>
   <string name="reminder_header_close_button">LUKK</string>
   <!--MediaPreviewActivity-->
